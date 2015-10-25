@@ -404,7 +404,7 @@ WEAPON ATTACHABLES
             <property name="Sphere" value="0.1" />
             <property name="Block_range" value="4" />
             <property name="DamageEntity" value="10" />
-            <property name="DamageBlock" value="2" />
+            <property name="DamageBlock" value="6" />
             <property name="Sound_start" value="swoosh" />
             <property name="Stamina_usage" value="4" />
             <property name="DamageBonus.glass" value="25" />
